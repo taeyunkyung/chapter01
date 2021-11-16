@@ -9,5 +9,4 @@ public class Ex03 {
 			System.out.println("I love Java"+i);
 		}
 	}
-
 }
