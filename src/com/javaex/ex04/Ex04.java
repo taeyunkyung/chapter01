@@ -10,9 +10,10 @@ public class Ex04 {
 
 		System.out.println("단을 입력하세요");
 		System.out.print("단:");
+		
 		int dan = sc.nextInt();
 		for(int i=1; i<=9; i++) {
-			System.out.println("8 * "+i+" = "+i*8);
+			System.out.println(dan+" * "+i+" = "+dan*i);
 		}
 
 		sc.close();
